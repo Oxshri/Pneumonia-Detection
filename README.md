@@ -1,5 +1,5 @@
 
-####Pneumonia Detection Using Convolutional Neural Networks (CNN)
+#Pneumonia Detection Using Convolutional Neural Networks (CNN)
 This repository contains code for detecting pneumonia in chest X-ray images using Convolutional Neural Networks (CNNs). The CNN architecture is trained on a dataset of chest X-ray images labeled with pneumonia or normal.
 
 ##Dataset
